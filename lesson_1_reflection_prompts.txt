@@ -14,7 +14,7 @@ What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
 docs does?
 
-   
+  bl3b tany fel locals 
  Fill in your answer here
 
 Why do you think some version control systems, like Git, allow saving multiple
